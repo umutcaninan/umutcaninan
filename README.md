@@ -15,16 +15,16 @@ Yazılım dünyasında farklı diller ve teknolojiler arasında mekik dokuyan bi
 | Alan | Diller ve Teknolojiler |
 | :--- | :--- |
 | **Diller** | `Java`, `JavaScript`, `C#`, `C++`, `Python` |
-| **Backend** | `Node.js`, `ASP.NET`, `Spring` |
-| **Araçlar** | `Git`, `Docker`, `VS Code`, `IntelliJ` |
+| **Backend** |  `ASP.NET` |
+| **Araçlar** | `Git`, `VS Code` |
 
 ---
 
 ### 📊 GitHub İstatistiklerim
 
-![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=tokyonight)
+![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=[umutcaninan]&show_icons=true&theme=tokyonight)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&theme=tokyonight)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=[umutcaninan]&layout=compact&theme=tokyonight)
 
 ---
 
