@@ -6,6 +6,7 @@ Yazılım dünyasında farklı diller ve teknolojiler arasında mekik dokuyan bi
 - 🔭 Şu anda **ByteQuest** üzerinde çalışıyorum.
 - 🌱 Yeni öğrendiğim konular: **Java**.
 - 💬 Bana **C#** hakkında soru sorabilirsiniz.
+- 📫 Bana ulaşın: **umut34inan55@gmail.com**
 
 ---
 
