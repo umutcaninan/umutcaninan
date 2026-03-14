@@ -22,9 +22,9 @@ Yazılım dünyasında farklı diller ve teknolojiler arasında mekik dokuyan bi
 
 ### 📊 GitHub İstatistiklerim
 
-![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=[umutcaninan]&show_icons=true&theme=tokyonight)
+![Senin GitHub İstatistiklerin](https://github-readme-stats.vercel.app/api?username=umutcaninan&show_icons=true&theme=tokyonight)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=[umutcaninan]&layout=compact&theme=tokyonight)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=umutcaninan&layout=compact&theme=tokyonight)
 
 ---
 
